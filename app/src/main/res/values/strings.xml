@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="contact">Contact Number :- 650-555-5555</string>
+    <string name="title">Udacity</string>
+    <string name="website">Website :- www.udacity.com</string>
+    <string name="address">Address :- 2465 Letham St,Mountain View,CA 94043</string>
+</resources>
